@@ -1,2 +1,3 @@
-def func(x):
-    return x + 2
+def fizz_buzz(number):
+  if number % 3 == 0:
+    return 'Fizz'

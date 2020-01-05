@@ -1,4 +1,4 @@
-from Fizz.fizz import func
+from Fizz.fizz import fizz_buzz
 
-def test_answer():
-    assert func(3) == 5
+def test_return_fizz():
+    assert fizz_buzz(3) == "Fizz"

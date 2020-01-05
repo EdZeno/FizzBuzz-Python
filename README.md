@@ -1,4 +1,4 @@
-#FizzBuzz in Python
+# FizzBuzz in Python
 
 The goal is  to practice Python and using Pytest.
 
